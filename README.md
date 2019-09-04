@@ -49,7 +49,7 @@ $ cat /etc/debian_version
 We can see that Mendel OS is based on Debian 9 (stretch).
 Overall, Mendel OS is a cousin of Ubuntu 16.04 ARM64 and Raspbian stretch, which means we can use these debian packages
 when packages for Mendel OS are not available. This is relevant for installing packages like ROS Kinectic ([install guide
-here](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinectic.md)). 
+here](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinetic.md)). 
 
 # Resources
 * [Official Getting Started Guide](https://coral.withgoogle.com/docs/dev-board/get-started/)
