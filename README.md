@@ -3,7 +3,7 @@ A collection of useful resources and hacks around the new Coral EdgeTPU dev boar
 
 # Quick Overview
 
-From Google Coral [official docs](https://coral.withgoogle.com/docs/dev-board/get-started/), t`he Coral Dev Board is a
+From Google Coral [official docs](https://coral.withgoogle.com/docs/dev-board/get-started/), the Coral Dev Board is a
 single-board computer that contains an Edge TPU coprocessor. It's ideal for prototyping new projects that demand fast
 on-device inferencing for machine learning models.
 
