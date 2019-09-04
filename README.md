@@ -1,7 +1,7 @@
 # Coral EdgeTPU Dev Board Resources
 A collection of useful resources and hacks around the new Coral EdgeTPU dev board. 
 
-# Quick Overview
+## Quick Overview
 
 From Google Coral [official docs](https://coral.withgoogle.com/docs/dev-board/get-started/), the Coral Dev Board is a
 single-board computer that contains an Edge TPU coprocessor. It's ideal for prototyping new projects that demand fast
@@ -51,7 +51,12 @@ Overall, Mendel OS is a cousin of Ubuntu 16.04 ARM64 and Raspbian stretch, which
 when packages for Mendel OS are not available. This is relevant for installing packages like ROS Kinectic ([install guide
 here](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinetic.md)). 
 
-# Resources
+## Guides
+* [Install ROS Kinetic on EdgeTPU dev board](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinetic.md)
+* [EdgeTPU-powered Donkey Car](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/donkeycar_EdgeTPU.md)
+* [FLIR Cameras on the EdgeTPU dev board](http://smellslikeml.com)
+
+## Resources
 * [Official Getting Started Guide](https://coral.withgoogle.com/docs/dev-board/get-started/)
 * [Coral Dev Board Datasheet](https://coral.withgoogle.com/docs/dev-board/datasheet/)
 * [EdgeTPU Compiler](https://coral.withgoogle.com/docs/edgetpu/compiler/#)
