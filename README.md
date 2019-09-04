@@ -54,5 +54,6 @@ here](http://smellslikeml.com)).
 # Resources
 * [Official Getting Started Guide](https://coral.withgoogle.com/docs/dev-board/get-started/)
 * [Coral Dev Board Datasheet](https://coral.withgoogle.com/docs/dev-board/datasheet/)
+* [EdgeTPU Compiler](https://coral.withgoogle.com/docs/edgetpu/compiler/#)
 * [Community Coral guide](https://github.com/f0cal/google-coral)
 
