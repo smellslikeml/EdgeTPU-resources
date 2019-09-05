@@ -54,7 +54,7 @@ here](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinetic.
 ## Guides
 * [Install ROS Kinetic on EdgeTPU dev board](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/ROS_kinetic.md)
 * [EdgeTPU-powered Donkey Car](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/donkeycar_EdgeTPU.md)
-* [FLIR Cameras on the EdgeTPU dev board](http://smellslikeml.com)
+* [FLIR Cameras on the EdgeTPU dev board](https://github.com/smellslikeml/EdgeTPU-resources/blob/master/spinnaker.md)
 
 ## Resources
 * [Official Getting Started Guide](https://coral.withgoogle.com/docs/dev-board/get-started/)
