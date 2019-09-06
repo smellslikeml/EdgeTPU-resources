@@ -1,10 +1,10 @@
 # Installing ROS Kinect on the Coral EdgeTPU dev board
 
 ## Overview
-ROS Kinetic is an ROS version that is commonly used on ARM installations (ie Raspberry Pi). There are various supported
+ROS Kinetic is an ROS version that is readily available for ARM architectures. There are various supported
 methods for installing it on devices like the Raspberry Pi or NVIDIA Jetson but little documentation for other devices
 such as the coral dev board. Since Mendel OS is a cousin of Ubuntu 16.04 ARM64 and a derivative of Debian 9 (stretch),
-we can tweak the [build installation instructions for raspberry
+we can tweak the [build installation instructions for the raspberry
 pi](https://wiki.ros.org/ROSberryPi/Installing%20ROS%20Kinetic%20on%20the%20Raspberry%20Pi) to successfully install ROS
 Kinetic on the coral dev board. This guide will be based on the raspberry pi build instructions.
 
