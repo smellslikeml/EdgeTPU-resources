@@ -1,5 +1,5 @@
 # Coral EdgeTPU Dev Board Resources
-A collection of useful resources and hacks around the new Coral EdgeTPU dev board. 
+A collection of useful resources and hacks around the new Coral EdgeTPU dev board. Check out our [blog post](http://smellslikeml.com/edgetpu_resources.html)! 
 
 ## Quick Overview
 
