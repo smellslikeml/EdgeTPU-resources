@@ -1,7 +1,7 @@
 # Donkey Car on the EdgeTPU Dev Board
 
 ## Overview
-The Donkey Car project is a fun introduction to embedded AI, autonomous vehicles, and robotics. It has been designed
+The [Donkey Car project](https://docs.donkeycar.com/) is a fun introduction to embedded AI, autonomous vehicles, and robotics. It has been designed
 around the Raspberry Pi 3+ and select RC car bodies. In this guide, we explore swapping in the coral EdgeTPU dev board
 in place of the pi to take advantage of fast inference with the EdgeTPU tflite libraries. 
 
