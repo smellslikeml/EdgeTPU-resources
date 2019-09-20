@@ -122,7 +122,7 @@ can overwhelm the board and get stuck. We'll also alocate some swap memory to he
 
 Create the temporary swap space of 1G:
 ```
-$ sudo allocate -l 1G /swapfile
+$ sudo fallocate -l 1G /swapfile
 $ sudo chmod 600 /swapfile
 $ sudo mkswap /swapfile
 $ sudo swapon /swapfile
@@ -137,7 +137,7 @@ $ sudo ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Releas
 
 ### Troubleshoot
 You may run into Boost library version issues. Earlier, we installed libboost-all-dev which will install all the newest
-boost modules which will be around version ~1.62. If this is the case, purge the package installed by the package
+boost modules which will be around version ~1.62. If this newer version is causing errors, purge the package installed by the package
 manager and manually install boost 1.58 for ARM64 which can be found
 [here](https://launchpad.net/ubuntu/xenial/arm64/libboost-all-dev/1.58.0.1ubuntu1). 
 ```
