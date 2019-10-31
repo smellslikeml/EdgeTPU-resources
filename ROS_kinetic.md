@@ -1,4 +1,4 @@
-# Installing ROS Kinect on the Coral EdgeTPU dev board
+# Installing ROS Kinectic on the Coral EdgeTPU dev board
 
 ## Overview
 ROS Kinetic is an ROS version that is readily available for ARM architectures. There are various supported
