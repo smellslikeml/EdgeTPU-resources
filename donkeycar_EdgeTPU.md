@@ -64,7 +64,7 @@ $ sudo mkfs -t ext4 /dev/mntblk1
 
 Create a 1G temporary swap:
 ```
-$ sudo allocate -l 1G /swapfile
+$ sudo fallocate -l 1G /swapfile
 $ sudo chmod 600 /swapfile
 $ sudo mkswap /swapfile
 $ sudo swapon /swapfile
